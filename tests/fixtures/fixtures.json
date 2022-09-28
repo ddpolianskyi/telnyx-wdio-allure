@@ -1,0 +1,16 @@
+{   
+    "fullName": "John Doe",
+    "firstName": "John",
+    "lastName": "Doe",
+    "company": "Example",
+
+    "validEmail": "john.doe@email.com",
+    "validPassword": "examplePass_123",
+    "validPhoneNumber": "+11234567890",
+    "validCompanyUrl": "https://example.com",
+
+    "invalidEmail": "john.doe@",
+    "invalidPassword": "example",
+    "invalidPhoneNumber": "john.doe",
+    "invalidCompanyUrl": "example"
+}
